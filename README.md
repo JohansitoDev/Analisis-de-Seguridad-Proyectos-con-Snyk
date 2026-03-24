@@ -1,4 +1,4 @@
-# fddddd
+# Analisis de seguridad de proyecto con snyk
 
 <img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/c5a56c73-048d-4735-aff2-b3cf977d3cf8" />
 
